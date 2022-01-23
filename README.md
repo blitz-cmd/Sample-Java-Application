@@ -1,4 +1,4 @@
-# CICD_Java_gradle_application
+# Sample Java Application for CI/CD
 
 This application is java spring boot web application  
 
